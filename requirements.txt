@@ -1,0 +1,12 @@
+#pandas
+#numpy
+
+# Visualization
+#matplotlib
+#seaborn
+
+# Model
+#scikit-learn
+
+# excel 
+openpyxl
