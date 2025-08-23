@@ -1,0 +1,15 @@
+1. Ollama Application install 0.11.6
+2. pip install ollama==0.5.3
+3. pip show ollama
+4. ollama pull gemma:2b
+5. ollama pull gemma
+6. ollama list
+
+7. pdf2image → converts PDF pages to images
+
+8. pytesseract → OCR engine wrapper for Tesseract
+
+9. Pillow → image processing library
+
+# CMD
+vig_venv\Scripts\activate.bat

@@ -1,8 +1,21 @@
 jupyter
 ipykernel
 numpy
-pandas
-matplotlib
+matplotlib   # version unspecified—install latest automatically
 torch
 torchvision
 torchaudio
+
+# Summarize using an LLM
+ollama==0.5.3 
+
+## conda install -c conda-forge ollama (conda)
+
+# Extract text from PDFs
+pypdf
+
+pdfplumber
+
+# Chunk text if large
+langchain
+tiktoken
